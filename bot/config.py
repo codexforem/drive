@@ -2,9 +2,9 @@ class config:
     BOT_TOKEN = "5017676978:AAHcUELyv-kS39WR3en6XCpShmDrHqO52RQ"
     APP_ID = "7363654"
     API_HASH = "68e518c106f816dc7eebded6bfaf33a6"
-    DATABASE_URL = "postgres://wblldwgw:fBFbpqLPKvlCmMi2p35R05uAwz7-0_bB@babar.db.elephantsql.com/wblldwgw"
+    DATABASE_URL = "mongodb://darkshefard:darkshefard@ac-yodtjbv-shard-00-00.fgambsc.mongodb.net:27017,ac-yodtjbv-shard-00-01.fgambsc.mongodb.net:27017,ac-yodtjbv-shard-00-02.fgambsc.mongodb.net:27017/?ssl=true&replicaSet=atlas-2n17sp-shard-0&authSource=admin&retryWrites=true&w=majority"
     SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/drSAHSJAJA"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "535525502508-chrmrt82fqikvnmcj0ltdem6vhnjkh6k.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
