@@ -2,7 +2,7 @@ class config:
     BOT_TOKEN = "5017676978:AAHcUELyv-kS39WR3en6XCpShmDrHqO52RQ"
     APP_ID = "7363654"
     API_HASH = "68e518c106f816dc7eebded6bfaf33a6"
-    DATABASE_URL = "postgres://dark:F48TyPFMHnVEoot1kKeJKOXeORNxlmn0@dpg-ch3sf32ut4m1v1vndar0-a.oregon-postgres.render.com/dark_qg5s"
+    DATABASE_URL = "postgres://ovoozqqt:JF-VyJHRgCFQAay3xsSSsRNvGxi8tVuX@peanut.db.elephantsql.com/ovoozqqt"
     SUDO_USERS = "" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/drSAHSJAJA"
     DOWNLOAD_DIRECTORY = "./downloads/"
